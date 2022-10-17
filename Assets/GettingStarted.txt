@@ -1,0 +1,1 @@
+This class project has different content for each week. There should be a number of examples for each week. Go into a week's folder to see the scenes which provide code samples and usage examples.
